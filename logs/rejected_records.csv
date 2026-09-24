@@ -1,0 +1,4 @@
+transaction_id,customer_name,restaurant,category,country,quantity,unit_price,rating,transaction_date
+31,Customer_675,Dominos,Fast Food,Singapore,5,-500.0,4.1,2024-03-01
+41,Customer_439,Subway,Pizza,Australia,5,3221.73,6.0,2024-04-28
+501,Customer_1114,Dominos,Sandwich,Singapore,3,1008.75,,2025-04-12
